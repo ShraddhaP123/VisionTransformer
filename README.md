@@ -1,0 +1,1 @@
+The proposed Masked Transformer for image Anomaly Localization (MeTAL) approach uses the Vision Transformer architecture, incorporating a new masking component and patch generation method to improve performance.
